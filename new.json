@@ -1,5 +1,10 @@
-1. Kiakshto Natallia
-2.22
-3.1
-4.5000
+{
+	"NSF": {"name": " Natalia",
+	"surname": "Kiakshto",
+	"father_name": "Vitali"},
+	"age":22,
+	"pets":1,
+	desired_salary":5000
+}
+
 
