@@ -1,6 +1,8 @@
-1.Эйс Вентура
-2. Сверхъестественное
-3. Мамин грибной супчик)
-4. Весна 
-5. Швейцария, Канада, Австралия
+{
+	"fan_movie": "Ace Ventura",
+        "fan_TVSHOW": "Supernatural",
+	"fan_food": "pizza",
+	"fan_season": "autumn",
+	"country_to_visit": "USA"
+}
 
